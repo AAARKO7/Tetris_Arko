@@ -1,0 +1,4 @@
+How to RUN:
+1.All written code is in the src folder
+2.open src/main.cpp
+3.Run the code via debugger.In vs code press f5 key to run.
